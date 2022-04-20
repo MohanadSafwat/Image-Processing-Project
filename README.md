@@ -9,8 +9,9 @@ First you should install the following packages
 - IPython `pip install ipython`
 - moviepy `pip install moviepy`
 
-Then you should run the following batch command on the cmd
-`python car_lanes.py <inputPath> <outputPath> <type> <debug>`
+Then you should run the batch file on the cmd
+
+`run.bat <inputPath> <outputPath> <type> <debug>`
 
 if you want to enter image replace type with i and if video replace it with v,
-if you want to make output video with pipe line replace debug with 1 and 0 if not
+if you want to make output video with pipeline replace debug with 1 and 0 if not
